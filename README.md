@@ -1,6 +1,9 @@
 <div align="center">
 
   <h1>Hi 👋, I'm Sardorbek</h1>
+<div align="center">
+
+  <h1>Hi 👋, I'm Sardorbek</h1>
   <h3>Python Backend Developer from Uzbekistan 🇺🇿</h3>
 
   <p>
@@ -10,19 +13,26 @@
 
   <br/>
 
-  <a href="https://github.com/sardor-backend">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/dovron-soyipov-b1b0583aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-
 </div>
 
----
+```text
+sardorbek@backend -------------------------------------------------------------
+.
+.  OS: ........................................... Ubuntu Linux / WSL
+.  Host: ......................................... sardor-backend.github.io
+.  Role: ......................................... Python Backend Developer
+.  IDE: .......................................... VS Code / PyCharm
+.
+.  Languages.Programming: ........................ Python, SQL, Bash
+.  Frameworks & Web: ............................. Django, DRF, FastAPI, REST API
+.  Databases & Tools: ............................ PostgreSQL, Redis, Docker, Git
+.  Languages.Real: ............................... Uzbek (Native), English
+.
+.  Contact --------------------------------------------------------------------
+.  LinkedIn: ..................................... Dovron Soyipov
+.  Telegram: ..................................... @example
+.  GitHub: ....................................... sardor-backend
+.
 
 ### 🐍 About Me
 
