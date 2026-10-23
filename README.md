@@ -3,6 +3,11 @@
   <h1>Hi 👋, I'm Sardorbek</h1>
   <h3>Python Backend Developer from Uzbekistan 🇺🇿</h3>
 
+  <p>
+    <!-- Account Joined Badge -->
+    <img src="https://img.shields.io/github/created-at/sardor-backend?style=for-the-badge&logo=github&color=00B4D8&label=Joined%20GitHub" alt="GitHub Joined Date" />
+  </p>
+
   <br/>
 
   <a href="https://github.com/sardor-backend">
@@ -36,7 +41,7 @@ I am a passionate Python Backend Developer focused on building scalable web appl
 
 | **Languages** | **Backend & Frameworks** | **Database** | **Tools & DevOps** |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) <br> ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br>  |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) <br> ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
@@ -60,10 +65,18 @@ I am a passionate Python Backend Developer focused on building scalable web appl
 
 ---
 
-### 📈 Activity Graph
+### 📈 Activity Graph & History
 
 <div align="center">
+
+  <!-- Akkaunt yaratilgan sana va faollik grafigi -->
+  <p><b>🗓️ Account Created At: 23/10/2026</b></p>
+  <img src="https://img.shields.io/github/created-at/sardor-backend?style=flat-square&logo=github&color=00B4D8&label=Joined%20GitHub" alt="Joined Date" />
+
+  <br/><br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardor-backend&theme=react-dark&hide_border=true" alt="Sardorbek's Activity Graph" />
+
 </div>
 
 ---
