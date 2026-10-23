@@ -36,8 +36,9 @@ I am a passionate Python Backend Developer focused on building scalable web appl
 
 | **Languages** | **Backend & Frameworks** | **Database** | **Tools & DevOps** |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |</div>
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) <br> ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
 
 ---
 
@@ -46,7 +47,7 @@ I am a passionate Python Backend Developer focused on building scalable web appl
 <div align="center">
 
   <a href="https://github.com/sardor-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sardor-backend&show_icons=true&line_height=27&count_private=true&title_color=00B4D8&text_color=E0E1DD&icon_color=00B4D8&bg_color=0D1117&border_color=30363D&hide_border=false" alt="Sardorbek's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sardor-backend&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide=prs,issues&title_color=00B4D8&text_color=E0E1DD&icon_color=00B4D8&bg_color=0D1117&border_color=30363D&hide_border=false" alt="Sardorbek's GitHub Stats" />
   </a>
   
   <br/><br/>
@@ -55,6 +56,14 @@ I am a passionate Python Backend Developer focused on building scalable web appl
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor-backend&layout=compact&title_color=00B4D8&text_color=E0E1DD&icon_color=00B4D8&bg_color=0D1117&border_color=30363D&hide_border=false&langs_count=6" alt="Top Languages" />
   </a>
 
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardor-backend&theme=react-dark&hide_border=true" alt="Sardorbek's Activity Graph" />
 </div>
 
 ---
