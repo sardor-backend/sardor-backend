@@ -30,10 +30,8 @@ sardorbek@backend -------------------------------------------------------------
 .  Telegram: ..................................... @example
 .  GitHub: ....................................... sardor-backend
 .
-
-### 🐍 About Me
-
-```python
+🐍 About Me
+Python
 class BackendDeveloper:
     def __init__(self):
         self.name = "Sardorbek"
