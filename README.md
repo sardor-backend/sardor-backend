@@ -12,18 +12,32 @@
 
 ## 🖥️ System Info
 
-```text
-sardorbek@backend
------------------
-OS:          Ubuntu Linux / WSL
-Host:        sardor-backend.github.io
-Role:        Python Backend Developer
-IDE:         VS Code / PyCharm
+## 🖥️ System Info
 
-Languages:   Python, SQL, Bash
-Frameworks:  Django, DRF, FastAPI, REST API
-Tools:       PostgreSQL, Redis, Docker, Git
-Spoken:      Uzbek (Native), English
+```text
+sardorbek@backend ─────────────────────────────────────────────────────────────
+.
+. Host: .............................................. sardor-backend.github.io
+. Role: .............................................. Python Backend Developer
+. IDE: ............................................... VS Code / PyCharm
+.
+. Languages.Programming: ............................. Python, SQL, Bash
+. Frameworks.Web: .................................... Django, DRF, REST API
+. Tools.Database: .................................... PostgreSQL, Redis, Docker, Git
+. Languages.Real: .................................... Uzbek (Native), English
+.
+. Hobbies.Software: .................................. Backend, System Design
+.
+- Contact ───────────────────────────────────────────────────────────────────---
+.
+. LinkedIn: .......................................... www.linkedin.com/in/dovron-soyipov-b1b0583aa
+. Telegram: .......................................... @your_username
+. GitHub: ............................................ github/sardor-backend
+.
+- GitHub Stats ──────────────────────────────────────────────────────────────---
+.
+. Repos: ........ 10 | Stars: ........ 5
+. Commits: ...... 15 | Followers: .... 3
 ```
 
 ## 📫 Contact
