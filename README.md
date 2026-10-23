@@ -2,9 +2,8 @@
 
 # Hi 👋, I'm Sardorbek
 
-### Python Backend Developer from Uzbekistan 🇺🇿
+### <b>Python</b> Backend Developer from Uzbekistan 🇺🇿
 
-<img width="480" height="476" alt="CodeCodingGIFbyEscuelaDevRock" src="https://github.com/user-attachments/assets/dd593cd2-c2f8-4a12-8ba3-1b9c2c2ada0c" />
 
 ![GitHub followers](https://img.shields.io/github/followers/sardor-backend?style=for-the-badge&logo=github&color=00B4D8)
 
