@@ -1,56 +1,62 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Sardorbek</h1>
-  <h3>Python Backend Developer from Uzbekistan 🇺🇿</h3>
+# Hi 👋, I'm Sardorbek
 
-  <p>
-    <!-- Account Joined Badge -->
-    <img src="https://img.shields.io/github/created-at/sardor-backend?style=for-the-badge&logo=github&color=00B4D8&label=Joined%20GitHub" alt="GitHub Joined Date" />
-  </p>
+### Python Backend Developer from Uzbekistan 🇺🇿
 
-  <br/>
+![GitHub followers](https://img.shields.io/github/followers/sardor-backend?style=for-the-badge&logo=github&color=00B4D8)
 
 </div>
 
+---
+
+## 🖥️ System Info
+
 ```text
-sardorbek@backend -------------------------------------------------------------
-.
-.  OS: ........................................... Ubuntu Linux / WSL
-.  Host: ......................................... sardor-backend.github.io
-.  Role: ......................................... Python Backend Developer
-.  IDE: .......................................... VS Code / PyCharm
-.
-.  Languages.Programming: ........................ Python, SQL, Bash
-.  Frameworks & Web: ............................. Django, DRF, FastAPI, REST API
-.  Databases & Tools: ............................ PostgreSQL, Redis, Docker, Git
-.  Languages.Real: ............................... Uzbek (Native), English
-.
-.  Contact --------------------------------------------------------------------
-.  LinkedIn: ..................................... Dovron Soyipov
-.  Telegram: ..................................... @example
-.  GitHub: ....................................... sardor-backend
-.
-🐍 About Me
-Python
+sardorbek@backend
+-----------------
+OS:          Ubuntu Linux / WSL
+Host:        sardor-backend.github.io
+Role:        Python Backend Developer
+IDE:         VS Code / PyCharm
+
+Languages:   Python, SQL, Bash
+Frameworks:  Django, DRF, FastAPI, REST API
+Tools:       PostgreSQL, Redis, Docker, Git
+Spoken:      Uzbek (Native), English
+```
+
+## 📫 Contact
+
+- **LinkedIn:** [Sardorbek](https://www.linkedin.com/in/dovron-soyipov-b1b0583aa/)
+- **Telegram:** [@your_username](https://t.me/your_username)
+- **GitHub:** [sardor-backend](https://github.com/sardor-backend)
+
+## 🐍 About Me
+
+```python
+from dataclasses import dataclass
+
+
+@dataclass(frozen=True)
 class BackendDeveloper:
-    def __init__(self):
-        self.name = "Sardorbek"
-        self.role = "Python Backend Developer"
-        self.location = "Uzbekistan 🇺🇿"
+    name: str = "Sardorbek"
+    role: str = "Python Backend Developer"
+    location: str = "Uzbekistan 🇺🇿"
+    current_focus: tuple[str, ...] = (
+        "Advanced Django & Microservices projects",
+        "System Architecture & Cloud Technologies",
+    )
+    expertise: tuple[str, ...] = (
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "REST APIs",
+        "Telegram Bots",
+        "Docker",
+    )
+    fun_fact: str = "I love turning complex logic into simple, efficient backend code."
 
-    def get_current_focus(self) -> list:
-        return [
-            "Advanced Django & Microservices projects",
-            "Advanced System Architecture & Cloud Technologies"
-        ]
-
-    def get_expertise(self) -> list:
-        return [
-            "Python", "Django", "PostgreSQL", 
-            "REST APIs", "Telegram Bots", "Docker"
-        ]
-
-    def fun_fact(self) -> str:
-        return "I love turning complex logic into simple, efficient backend code."
 
 sardor = BackendDeveloper()
+```
