@@ -3,10 +3,7 @@
 # Hi 👋, I'm Sardorbek
 
 ### <b>Python</b> Backend Developer from Uzbekistan 🇺🇿
-
-
-![GitHub followers](https://img.shields.io/github/followers/sardor-backend?style=for-the-badge&logo=github&color=00B4D8)
-
+ 👨‍💻 👨‍💻 👨‍💻
 </div>
 
 ---
