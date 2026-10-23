@@ -12,8 +12,6 @@
 
 ## 🖥️ System Info
 
-## 🖥️ System Info
-
 ```text
 sardorbek@backend ─────────────────────────────────────────────────────────────
 .
@@ -55,7 +53,7 @@ from dataclasses import dataclass
 @dataclass(frozen=True)
 class BackendDeveloper:
     name: str = "Sardorbek"
-    role: str = "Python Backend Developer"
+    role: str = "Python Backend Developer "
     location: str = "Uzbekistan 🇺🇿"
     current_focus: tuple[str, ...] = (
         "Advanced Django & Microservices projects",
@@ -75,3 +73,4 @@ class BackendDeveloper:
 sardor = BackendDeveloper()
 ```
 ## 📊 CREATED DATE: 23/10/2026
+<img width="480" height="476" alt="CodeCodingGIFbyEscuelaDevRock" src="https://github.com/user-attachments/assets/dd593cd2-c2f8-4a12-8ba3-1b9c2c2ada0c" />
