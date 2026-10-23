@@ -1,9 +1,6 @@
 <div align="center">
 
   <h1>Hi 👋, I'm Sardorbek</h1>
-<div align="center">
-
-  <h1>Hi 👋, I'm Sardorbek</h1>
   <h3>Python Backend Developer from Uzbekistan 🇺🇿</h3>
 
   <p>
