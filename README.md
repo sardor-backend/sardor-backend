@@ -1,33 +1,65 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<div align="center">
 
-My name is Sardorbek and I'm a Python Backend Developer. I'm from Uzbekistan, living in Qarshi. You can find me on [![LinkedIn][3.2]][3], or check out my repositories on [![GitHub][2.2]][2].
+  <h1>Hi 👋, I'm Sardorbek</h1>
+  <h3>Python Backend Developer from Uzbekistan 🇺🇿</h3>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Bot-Telegram_Bot-informational?style=flat&logo=telegram&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Architecture-REST_API-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+  <br/>
 
-## 📈 GitHub Stats
+  <a href="https://github.com/sardor-backend">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/dovron-soyipov-b1b0583aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/example" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 
-<a href="https://github.com/sardor-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor-backend&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-<a href="https://github.com/sardor-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sardor-backend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sardorbek's GitHub Stats" />
-</a>
+</div>
 
-<!-- icons without padding -->
+---
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/github-3-16.png (github icon)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon)
+### 🚀 About Me
 
-<!-- links to your social media accounts -->
+I am a passionate Python Backend Developer focused on building scalable web applications, robust APIs, and automated Telegram bots.
 
-[2]: https://github.com/sardor-backend
-[3]: https://www.linkedin.com/in/SIZNING_LINKEDININGIZ/
+- 🔭 I’m currently working on **Advanced Django & Microservices projects**
+- 🌱 I’m currently learning **Advanced System Architecture & Cloud Technologies**
+- 💬 Ask me about **Python, Django, PostgreSQL, REST APIs & Telegram Bots**
+- ⚡ Fun fact: **I love turning complex logic into simple, efficient backend code.**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Languages** | **Backend & Frameworks** | **Database** | **Tools & DevOps** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |</div>
+
+---
+
+### 📊 GitHub Stats & Overview
+
+<div align="center">
+
+  <a href="https://github.com/sardor-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sardor-backend&show_icons=true&line_height=27&count_private=true&title_color=00B4D8&text_color=E0E1DD&icon_color=00B4D8&bg_color=0D1117&border_color=30363D&hide_border=false" alt="Sardorbek's GitHub Stats" />
+  </a>
+  
+  <br/><br/>
+
+  <a href="https://github.com/sardor-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor-backend&layout=compact&title_color=00B4D8&text_color=E0E1DD&icon_color=00B4D8&bg_color=0D1117&border_color=30363D&hide_border=false&langs_count=6" alt="Top Languages" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+  <p>🤝 Let's connect and build something awesome together!</p>
+</div>
