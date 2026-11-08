@@ -33,7 +33,7 @@ sardorbek@backend ────────────────────�
 - GitHub Stats ──────────────────────────────────────────────────────────────---
 .
 . Repos: ........ 10 | Stars: ........ 5
-. Commits: ...... 15 | Followers: .... 3
+. Commits: ...... 15 | Followers: .... 5
 ```
 
 ## 📫 Contact
