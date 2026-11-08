@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sardorbek
 
-### <b>Python</b> Backend Developer from Uzbekistan 🇺🇿
+### <b>Python</b> Backend Developer from Uzbekistan
  👨‍💻 👨‍💻 👨‍💻
 </div>
 
